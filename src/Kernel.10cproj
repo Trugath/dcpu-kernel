@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <name>Kernel</name>
+  <files>
+    <file path="main.asm" />
+    <file path="clock.asm" />
+    <file path="memory.asm" />
+    <file path="interrupt.asm" />
+    <file path="math.asm" />
+    <file path="mathFixed16.asm" />
+    <file path="mathInt32.asm" />
+    <file path="screen.asm" />
+    <file path="string.asm" />
+    <file path="console.asm" />
+    <file path="checksum16.asm" />
+    <file path="_heap.asm" />
+  </files>
+</project>

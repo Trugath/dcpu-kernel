@@ -1,0 +1,22 @@
+
+
+	SET PUSH, A
+	SET PUSH, B
+	SET PUSH, C
+	SET PUSH, X
+	SET PUSH, Y
+	SET PUSH, Z
+	SET PUSH, I
+	SET PUSH, J
+
+	; do work
+	
+	SET J, POP
+	SET I, POP
+	SET Z, POP
+	SET Y, POP
+	SET X, POP
+	SET C, POP
+	SET B, POP
+	SET A, POP
+	SET PC, POP
